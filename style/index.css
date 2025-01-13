@@ -19,7 +19,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 60px;
+  padding: 40px;
 
 }
 
@@ -175,4 +175,54 @@
 .news .sec32 .detilas {
   width: 1200px;
   
+}
+.donate{
+  text-align: center;
+  padding: 20px 140px;
+}
+.donate p{
+  font-size: smaller;
+  opacity: 70%;
+}
+.donate .money .taka{
+  width: 120px;
+  height: 60px;
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+.donate .money{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 25px;
+  padding: 0px 50px;
+}
+.int {
+  width: 95%;
+  padding: 10px;
+  border-radius: 7px;
+  font-size: 14px;
+  border: none;
+}
+.intp{
+  margin-bottom: 30px;
+}
+.btn-4 {
+  width: 100px;
+  height: 30px;
+  background-color: #006A50;
+  color: white;
+  border-radius: 5px;
+  border: none;               
+  padding: auto;
+}
+.btn44 , .btn41, .btn42, .btn43{
+  background-color: white;
+  border: none;
+}
+.btn41:hover, .btn42:hover, .btn43:hover, .btn44:hover{
+  background-color: aquamarine;
 }
