@@ -178,7 +178,7 @@
 }
 .donate{
   text-align: center;
-  padding: 20px 140px;
+  padding: 5px 210px;
 }
 .donate p{
   font-size: smaller;
@@ -201,7 +201,7 @@
   padding: 0px 50px;
 }
 .int {
-  width: 95%;
+  width: 85%;
   padding: 10px;
   border-radius: 7px;
   font-size: 14px;
@@ -225,4 +225,33 @@
 }
 .btn41:hover, .btn42:hover, .btn43:hover, .btn44:hover{
   background-color: aquamarine;
+}
+.newsltr{
+  background-color: #C6E4D6;
+  border-radius: 21px;
+  margin: 65px;
+  text-align: center;
+  padding: 20px 140px;
+}
+.newsltr .des5{
+  padding: 0px 100px;
+  font-size: small;
+  opacity: 70%;
+}
+.newsltr .int{
+  width: 80%;
+  padding: 10px;
+  border-radius: 7px 0px 0px 7px;
+  font-size: 14px;
+  border: none;
+}
+.newsltr .btn-52{
+  width: 15%;
+
+  background-color: #006A50;
+  color: white;
+  border-radius: 0px 7px 7px 0px;
+  padding: 10px;
+  font-size: 14px;
+  border: none;
 }
