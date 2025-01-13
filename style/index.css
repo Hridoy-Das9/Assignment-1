@@ -1,107 +1,178 @@
 .open-sans-nrml {
-    font-family: "Open Sans", serif;
-    font-optical-sizing: auto;
-    font-style: normal;
-    font-variation-settings: "wdth" 100;
-  }
-  .part1{
-    /* height: 480px;
-     */
-    background-color: #C6E4D6;
-    border-radius: 21px;
-    margin: 65px;
-    
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
 
-  }
-  .part1 .part11{
-    display: flex;
-    align-items: center;
-    justify-content: space-between; 
-    padding: 80px;
-    
-  }
- .part1 .part11 .subtitle1{
-  font-size:medium;
+.part1 {
+  /* height: 480px;
+     */
+  background-color: #C6E4D6;
+  border-radius: 21px;
+  margin: 65px;
+
+
+}
+
+.part1 .part11 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px;
+
+}
+
+.part1 .part11 .subtitle1 {
+  font-size: medium;
   color: #0E0E0E;
   opacity: 50%;
- }
- .part1 .part11 .title1{
+}
+
+.part1 .part11 .title1 {
   width: 500px;
   font-size: 35px;
   font-weight: bold;
- }
- .btn1{
+}
+
+.btn1 {
   width: 180px;
   height: 40px;
   background-color: #006A50;
   color: white;
   border-radius: 5px;
   border: none;
- }
- .sec2{
-  display: flex;
-  justify-content:space-between;
-  margin-top: 30px;
- }
- .vision{
-  margin: 65px;
- }
+}
 
- .digital{
+.sec2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.vision {
+  margin: 65px;
+}
+
+.digital {
   background-color: #C6E4D6;
   padding: 28px;
   width: 310px;
   height: 220px;
   border-radius: 10px;
- }
- .des{
+}
+
+.des {
   font-size: small;
   opacity: 080%;
- }
- .vision .digital .btn2{
+}
+
+.vision .digital .btn2 {
   background-color: #5490F5;
   padding: 8px;
   border-radius: 5px;
   border: none;
- }
- .vision .digital .btn22{
+}
+
+.vision .digital .btn22 {
   background-color: #09A15C;
   padding: 8px;
   border-radius: 5px;
   border: none;
- }
- .morden{
+}
+
+.morden {
   background-color: #fff0c3;
   padding: 28px;
   width: 310px;
   height: 220px;
   border-radius: 10px;
- }
- .des{
+}
+
+.des {
   font-size: small;
   opacity: 080%;
- }
- .vision .morden .btn2{
+}
+
+.vision .morden .btn2 {
   background-color: #5490F5;
   padding: 8px;
   border-radius: 5px;
   border: none;
- }
- .sec3{
+}
+
+.sec33 {
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 30px;
+  border-radius: 15px;
+}
+
+.vision .sec3 {
   background-image: url(../assets/quote-bg.png);
   background-repeat: no-repeat;
-  padding: 20px 30px;
-  margin-top: 30px;
-  background-color: rgb(255, 255, 255);
-  border-radius: 10px;
- }
- .sec3 p{
+
+}
+
+.sec33 .sec3 .qut {
   font-size: small;
   opacity: 80%;
- }
- .yns{
+  padding-top: 25px;
+}
+
+.sec33 .sec3 p {
+  font-size: small;
+  opacity: 80%;
+  /* padding-top: 25px; */
+}
+
+.yns {
   font-size: large;
   font-weight: bold;
   line-height: 2;
- }
- 
+}
+
+.news {
+  margin: 65px;
+}
+
+.news .sec32 {
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.image1 {
+  width: 700px;
+  
+}
+
+.news .sec32 .image1 img {
+  border-radius: 10px;
+  width: 320px;
+  height: 260px;
+  
+}
+
+.btn-32 {
+  width: 100px;
+  height: 30px;
+  background-color: #006A50;
+  color: white;
+  border-radius: 5px;
+  border: none;               
+  padding: auto;
+}
+.news .sec32 .detilas1 {
+  width: 1370px;
+  margin-right: 90px;
+}
+.news .sec32 .detilas {
+  width: 1200px;
+  
+}
